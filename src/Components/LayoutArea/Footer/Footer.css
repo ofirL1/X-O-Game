@@ -1,0 +1,12 @@
+.Footer {
+	box-sizing: border-box;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.Footer > h4 {
+    margin: 0;
+    padding: 0;
+}

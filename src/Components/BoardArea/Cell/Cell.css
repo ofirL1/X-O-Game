@@ -1,0 +1,59 @@
+.Cell {
+	width: 200px;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 100px;
+}
+
+.Cell.left-top{
+    border-right: 1px solid black;
+    border-bottom: 1px solid black;
+}
+
+.Cell.left-mid{
+    border-top: 1px solid black;
+    border-right: 1px solid black;
+    border-bottom: 1px solid black;
+}
+
+.Cell.left-bottom{
+    border-top: 1px solid black;
+    border-right: 1px solid black;
+}
+
+.Cell.mid-top{
+    border-right: 1px solid black;
+    border-bottom: 1px solid black;
+    border-left: 1px solid black;
+}
+
+.Cell.mid-mid{
+    border-right: 1px solid black;
+    border-bottom: 1px solid black;
+    border-left: 1px solid black;
+    border-top: 1px solid black;
+}
+
+.Cell.mid-bottom{
+    border-right: 1px solid black;
+    border-top: 1px solid black;
+    border-left: 1px solid black;
+}
+
+.Cell.right-top{
+    border-left: 1px solid black;
+    border-bottom: 1px solid black;
+}
+
+.Cell.right-mid{
+    border-top: 1px solid black;
+    border-left: 1px solid black;
+    border-bottom: 1px solid black;
+}
+
+.Cell.right-bottom{
+    border-top: 1px solid black;
+    border-left: 1px solid black;
+}

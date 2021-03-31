@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.4819b684.chunk.css",
-    "main.js": "/react-gh-pages/static/js/main.a932460e.chunk.js",
-    "main.js.map": "/react-gh-pages/static/js/main.a932460e.chunk.js.map",
-    "runtime-main.js": "/react-gh-pages/static/js/runtime-main.26477c71.js",
-    "runtime-main.js.map": "/react-gh-pages/static/js/runtime-main.26477c71.js.map",
-    "static/js/2.f966c473.chunk.js": "/react-gh-pages/static/js/2.f966c473.chunk.js",
-    "static/js/2.f966c473.chunk.js.map": "/react-gh-pages/static/js/2.f966c473.chunk.js.map",
-    "static/js/3.1d6fb466.chunk.js": "/react-gh-pages/static/js/3.1d6fb466.chunk.js",
-    "static/js/3.1d6fb466.chunk.js.map": "/react-gh-pages/static/js/3.1d6fb466.chunk.js.map",
-    "index.html": "/react-gh-pages/index.html",
-    "static/css/main.4819b684.chunk.css.map": "/react-gh-pages/static/css/main.4819b684.chunk.css.map",
-    "static/js/2.f966c473.chunk.js.LICENSE.txt": "/react-gh-pages/static/js/2.f966c473.chunk.js.LICENSE.txt",
-    "static/media/o.a9b33b4e.png": "/react-gh-pages/static/media/o.a9b33b4e.png",
-    "static/media/x.89af75f7.png": "/react-gh-pages/static/media/x.89af75f7.png"
+    "main.css": "/X-O-Game/static/css/main.4819b684.chunk.css",
+    "main.js": "/X-O-Game/static/js/main.a932460e.chunk.js",
+    "main.js.map": "/X-O-Game/static/js/main.a932460e.chunk.js.map",
+    "runtime-main.js": "/X-O-Game/static/js/runtime-main.25e2fab2.js",
+    "runtime-main.js.map": "/X-O-Game/static/js/runtime-main.25e2fab2.js.map",
+    "static/js/2.f966c473.chunk.js": "/X-O-Game/static/js/2.f966c473.chunk.js",
+    "static/js/2.f966c473.chunk.js.map": "/X-O-Game/static/js/2.f966c473.chunk.js.map",
+    "static/js/3.1d6fb466.chunk.js": "/X-O-Game/static/js/3.1d6fb466.chunk.js",
+    "static/js/3.1d6fb466.chunk.js.map": "/X-O-Game/static/js/3.1d6fb466.chunk.js.map",
+    "index.html": "/X-O-Game/index.html",
+    "static/css/main.4819b684.chunk.css.map": "/X-O-Game/static/css/main.4819b684.chunk.css.map",
+    "static/js/2.f966c473.chunk.js.LICENSE.txt": "/X-O-Game/static/js/2.f966c473.chunk.js.LICENSE.txt",
+    "static/media/o.a9b33b4e.png": "/X-O-Game/static/media/o.a9b33b4e.png",
+    "static/media/x.89af75f7.png": "/X-O-Game/static/media/x.89af75f7.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.26477c71.js",
+    "static/js/runtime-main.25e2fab2.js",
     "static/js/2.f966c473.chunk.js",
     "static/css/main.4819b684.chunk.css",
     "static/js/main.a932460e.chunk.js"

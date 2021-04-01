@@ -55,7 +55,7 @@ class Board extends Component<{}, BoardState> {
                     console.log("computer can win")
                     squares[computerCanWin] = "O";
                 }
-                else if(playerCanWin && squares[playerCanWin] === null){
+                else if(playerCanWin !== null && squares[playerCanWin] === null){
                     console.log("player can win")
                     squares[playerCanWin] = "O";
                     console.log("player cannot win because computer")
